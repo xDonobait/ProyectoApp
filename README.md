@@ -6,10 +6,10 @@ Este proyecto Python proporciona una manera simple de gestionar tareas, permitie
 # Clases
 Tarea: Representa una tarea con los siguientes atributos:
 
-- __descripcion:__ Descripción de la tarea.
-- __materia:__ Materia a la que pertenece la tarea.
-- __fecha_entrega:__ Fecha de entrega de la tarea.
-- __siguiente:__ Referencia al siguiente nodo en la lista de tareas.
+- __Descripcion:__ Descripción de la tarea.
+- __Materia:__ Materia a la que pertenece la tarea.
+- __Fecha_entrega:__ Fecha de entrega de la tarea.
+- __Siguiente:__ Referencia al siguiente nodo en la lista de tareas.
 - __ListaTareas:__ Gestiona una lista enlazada de tareas con métodos para agregar, mostrar, buscar, actualizar y eliminar tareas.
 
 # Funcionalidades
