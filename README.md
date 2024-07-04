@@ -21,8 +21,7 @@ Mostrar Todas las Tareas: Muestra todas las tareas almacenadas en la lista.
 # Uso
 Al ejecutar el script, se presenta un menú interactivo con las siguientes opciones:
 
-Crear tarea: Permite ingresar los detalles de una nueva tarea y la agrega a la lista.
-Actualizar tarea: Permite actualizar los detalles de una tarea existente.
-Eliminar tarea: Permite eliminar una tarea por su descripción.
-Ver todas las tareas: Muestra todas las tareas almacenadas.
-Salir: Termina la ejecución del programa.
+Crear tarea
+Actualizar tarea
+Eliminar tarea
+Salir
