@@ -1,5 +1,3 @@
-# ProyectoApp
-
 # Sistema de Gestión de Tareas
 Este proyecto Python proporciona una manera simple de gestionar tareas, permitiendo crear, actualizar, eliminar y visualizar tareas almacenadas en una lista.
 
